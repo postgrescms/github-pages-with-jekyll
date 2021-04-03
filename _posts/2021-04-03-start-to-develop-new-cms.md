@@ -1,3 +1,8 @@
+---
+title: "Start to Develop New CMS"
+date: 2021-04-03
+---
+
 There are a lot of CMS in the world such as WordPress, Joomla, Drupal and the like.
 
 They usually use MySQL database, sometimes talk about PostgreSQL database support. But in many cases, the database is just used as a database - tables and columns, and nothing else.
