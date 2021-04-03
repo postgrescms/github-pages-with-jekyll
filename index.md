@@ -1,3 +1,3 @@
-# Welcome to my blog
+# PostgresCMS Blog
 
-I'm glad you are here. I plan to talk about ...
+Content management system that uses features of PostgreSQL databases
