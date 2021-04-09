@@ -1,7 +1,7 @@
 title: PostgresCMS Blog
 author: Alex
 email: postgrescms@gmail.com
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 description: > # this means to ignore newlines until "baseurl:"
   Content management system that uses features of PostgreSQL databases.
 
